@@ -1,0 +1,5 @@
+{
+  "targets": [
+    "nordic/nrf54/nrf54l15"
+  ]
+}
